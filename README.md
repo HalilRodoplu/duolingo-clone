@@ -7,7 +7,7 @@ NeonDb is used for PostgresDb.
 
 
 Tailwind and Shadcn are used for beautiful and responsive designs. 
-You can check the code and see an impressive full-stack project. This project has also admin panel don’t forget to check it. Fill in the .env file with valid keys, install dependencies, and then run it. If you get stuck, check the scripts file for seeding or resetting the database.
+You can check the code and see an impressive full-stack project. This project has also admin panel don’t forget to check it. Fill in the .env file with valid keys, install dependencies, and then run it.To authenticate access to the admin panel, ensure your Clerk ID matches. Don’t forget to add your Clerk ID to the ALLOWED_IDS in the .env file. If you get stuck, check the scripts file for seeding or resetting the database.
 
 
 
